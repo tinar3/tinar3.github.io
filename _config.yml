@@ -1,0 +1,20 @@
+title:             Code-learning Notebook
+email:             tinaruan3@126.com
+description:       A blog for recording my code-learning process
+author:            Tina Ruan
+baseurl:           "/startbootstrap-clean-blog-jekyll"
+url:               "http://tinar3.github.io"
+
+# Social Profiles
+twitter_username:  
+github_username:   tinar3
+facebook_username: 
+wechat_paccount_username:  product-diary
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
