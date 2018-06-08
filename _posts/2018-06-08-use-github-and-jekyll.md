@@ -1,6 +1,8 @@
-| layout | title                                    | subtitle | date       | background        |
-| ------ | ---------------------------------------- | -------- | ---------- | ----------------- |
-| post   | Setup rudy, gem and Jekyll and run a local server |          | 2018-06-08 | /img/posts/06.jpg |
+# Build my own site using Github page and jekyll
 
-# this is head 1
+Steps：
+1. Create a new repository with the name ending by .github.io
+2. Clone the repository
+3. Setup Ruby+gem+bundle+jekyll
+4. 
 
